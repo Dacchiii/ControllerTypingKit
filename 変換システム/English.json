@@ -1,0 +1,48 @@
+{
+  "English":
+   {"Latincharacters": 
+    {"1by5"
+      {"Group1": 
+       {"letter": "a","Shift": "A","clickR": "A", "min": ["324", "0"], "max": ["360", "36"]}
+       {"letter": "b","Shift": "B","clickR": "B", "min": "36", "max": "72"}
+       {"letter": "c","Shift": "C","clickR": "C", "min": "72", "max": ""}
+       {"letter": "d","Shift": "D","clickR": "D", "min": "", "max": ""}
+       {"letter": "e","Shift": "E","clickR": "E", "min": "", "max": ""}
+      }
+      {"Group2": 
+       {"letter": "f","Shift": "A","clickR": "A", "min": ["324", "0"], "max": ["360", "36"]}
+       {"letter": "g","Shift": "B","clickR": "B", "min": "36", "max": "72"}
+       {"letter": "h","Shift": "C","clickR": "C", "min": "72", "max": ""}
+       {"letter": "i","Shift": "D","clickR": "D", "min": "", "max": ""}
+       {"letter": "j","Shift": "E","clickR": "E", "min": "", "max": ""}
+      }
+      {"Group3": 
+       {"letter": "k","Shift": "A","clickR": "A", "min": ["324", "0"], "max": ["360", "36"]}
+       {"letter": "l","Shift": "B","clickR": "B", "min": "36", "max": "72"}
+       {"letter": "m","Shift": "C","clickR": "C", "min": "72", "max": ""}
+       {"letter": "n","Shift": "D","clickR": "D", "min": "", "max": ""}
+       {"letter": "o","Shift": "E","clickR": "E", "min": "", "max": ""}
+      }
+      {"Group4": 
+       {"letter": "p","Shift": "A","clickR": "A", "min": ["324", "0"], "max": ["360", "36"]}
+       {"letter": "q","Shift": "B","clickR": "B", "min": "36", "max": "72"}
+       {"letter": "r","Shift": "C","clickR": "C", "min": "72", "max": ""}
+       {"letter": "s","Shift": "D","clickR": "D", "min": "", "max": ""}
+       {"letter": "t","Shift": "E","clickR": "E", "min": "", "max": ""}
+      }
+      {"Group5": 
+       {"letter": "u","Shift": "A","clickR": "A", "min": ["324", "0"], "max": ["360", "36"]}
+       {"letter": "v","Shift": "B","clickR": "B", "min": "36", "max": "72"}
+       {"letter": "w","Shift": "C","clickR": "C", "min": "72", "max": ""}
+       {"letter": "x","Shift": "D","clickR": "D", "min": "", "max": ""}
+       {"letter": "y","Shift": "E","clickR": "E", "min": "", "max": ""}
+    }
+     {"1by6"
+      {"Group1": 
+       {"letter": "a","Shift": "A","clickR": "A", "min": ["330", "0"], "max": ["360", "30"]}
+       {"letter": "b","Shift": "B","clickR": "B", "min": "30", "max": "90"}
+       {"letter": "c","Shift": "C","clickR": "C", "min": "90", "max": "150"}
+       {"letter": "d","Shift": "D","clickR": "D", "min": "150", "max": "210"}
+       {"letter": "e","Shift": "E","clickR": "E", "min": "210", "max": "270"}
+       {"letter": "f","Shift": "F","clickR": "F", "min": "270", "max": "330"}
+      }
