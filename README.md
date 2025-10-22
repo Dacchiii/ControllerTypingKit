@@ -1,2 +1,2 @@
-# ControllerTypingAPI
+# ControllerTypingKit
 コントローラーをハードウェアキーボードのように使って従来のゲーム機にあるようなソフトウェアキーボードより高速に入力します。
