@@ -3,46 +3,101 @@
    {"Latincharacters": 
     {"1by5"
       {"Group1": 
-       {"letter": "a","Shift": "A","clickR": "A", "min": ["324", "0"], "max": ["360", "36"]}
-       {"letter": "b","Shift": "B","clickR": "B", "min": "36", "max": "72"}
-       {"letter": "c","Shift": "C","clickR": "C", "min": "72", "max": ""}
-       {"letter": "d","Shift": "D","clickR": "D", "min": "", "max": ""}
-       {"letter": "e","Shift": "E","clickR": "E", "min": "", "max": ""}
+       {"letter": "a","Shift": "A","clickR": "Ａ", "Min": ["325", "0"], "Max": ["360", "36"] }
+       {"letter": "b","Shift": "B","clickR": "Ｂ", "Min": "37", "Max": "108"}
+       {"letter": "c","Shift": "C","clickR": "Ｃ", "Min": "109", "Max": "180"}
+       {"letter": "d","Shift": "D","clickR": "Ｄ", "Min": "181", "Max": "252"}
+       {"letter": "e","Shift": "E","clickR": "Ｅ", "Min": "253", "Max": "324"}
       }
       {"Group2": 
-       {"letter": "f","Shift": "A","clickR": "A", "min": ["324", "0"], "max": ["360", "36"]}
-       {"letter": "g","Shift": "B","clickR": "B", "min": "36", "max": "72"}
-       {"letter": "h","Shift": "C","clickR": "C", "min": "72", "max": ""}
-       {"letter": "i","Shift": "D","clickR": "D", "min": "", "max": ""}
-       {"letter": "j","Shift": "E","clickR": "E", "min": "", "max": ""}
+       {"letter": "f","Shift": "F","clickR": "Ｈ", "Min": ["325", "0"], "Max": ["360", "36"] }
+       {"letter": "g","Shift": "G","clickR": "Ｉ", "Min": "37", "Max": "108"}
+       {"letter": "h","Shift": "H","clickR": "Ｊ", "Min": "109", "Max": "180"}
+       {"letter": "i","Shift": "I","clickR": "Ｋ", "Min": "181", "Max": "252"}
+       {"letter": "j","Shift": "J","clickR": "Ｌ", "Min": "253", "Max": "324"}
       }
       {"Group3": 
-       {"letter": "k","Shift": "A","clickR": "A", "min": ["324", "0"], "max": ["360", "36"]}
-       {"letter": "l","Shift": "B","clickR": "B", "min": "36", "max": "72"}
-       {"letter": "m","Shift": "C","clickR": "C", "min": "72", "max": ""}
-       {"letter": "n","Shift": "D","clickR": "D", "min": "", "max": ""}
-       {"letter": "o","Shift": "E","clickR": "E", "min": "", "max": ""}
+       {"letter": "k","Shift": "K","clickR": "Ｍ", "Min": ["325", "0"], "Max": ["360", "36"] }
+       {"letter": "l","Shift": "L","clickR": "Ｎ", "Min": "37", "Max": "108"}
+       {"letter": "m","Shift": "M","clickR": "Ｏ", "Min": "109", "Max": "180"}
+       {"letter": "n","Shift": "N","clickR": "Ｐ", "Min": "181", "Max": "252"}
+       {"letter": "o","Shift": "O","clickR": "Ｑ", "Min": "253", "Max": "324"}
       }
       {"Group4": 
-       {"letter": "p","Shift": "A","clickR": "A", "min": ["324", "0"], "max": ["360", "36"]}
-       {"letter": "q","Shift": "B","clickR": "B", "min": "36", "max": "72"}
-       {"letter": "r","Shift": "C","clickR": "C", "min": "72", "max": ""}
-       {"letter": "s","Shift": "D","clickR": "D", "min": "", "max": ""}
-       {"letter": "t","Shift": "E","clickR": "E", "min": "", "max": ""}
+       {"letter": "p","Shift": "P","clickR": "Ｒ", "Min": ["325", "0"], "Max": ["360", "36"] }
+       {"letter": "q","Shift": "Q","clickR": "Ｓ", "Min": "37", "Max": "108"}
+       {"letter": "r","Shift": "R","clickR": "Ｔ", "Min": "109", "Max": "180"}
+       {"letter": "s","Shift": "S","clickR": "Ｕ", "Min": "181", "Max": "252"}
+       {"letter": "t","Shift": "T","clickR": "Ｖ", "Min": "253", "Max": "324"}
       }
       {"Group5": 
-       {"letter": "u","Shift": "A","clickR": "A", "min": ["324", "0"], "max": ["360", "36"]}
-       {"letter": "v","Shift": "B","clickR": "B", "min": "36", "max": "72"}
-       {"letter": "w","Shift": "C","clickR": "C", "min": "72", "max": ""}
-       {"letter": "x","Shift": "D","clickR": "D", "min": "", "max": ""}
-       {"letter": "y","Shift": "E","clickR": "E", "min": "", "max": ""}
+       {"letter": "u","Shift": "U","clickR": "Ｗ", "Min": ["331", "0"], "Max": ["360", "30"] }
+       {"letter": "v","Shift": "V","clickR": "Ｘ", "Min": "31", "Max": "90"}
+       {"letter": "w","Shift": "W","clickR": "Ｙ", "Min": "91", "Max": "150"}
+       {"letter": "x","Shift": "X","clickR": "Ｚ", "Min": "151", "Max": "210"}
+       {"letter": "y","Shift": "Y","clickR": "E", "Min": "211", "Max": "270"}
+       {"letter": "y","Shift": "Y","clickR": "E", "Min": "271", "Max": "330"}
     }
      {"1by6"
       {"Group1": 
-       {"letter": "a","Shift": "A","clickR": "A", "min": ["330", "0"], "max": ["360", "30"]}
-       {"letter": "b","Shift": "B","clickR": "B", "min": "30", "max": "90"}
-       {"letter": "c","Shift": "C","clickR": "C", "min": "90", "max": "150"}
-       {"letter": "d","Shift": "D","clickR": "D", "min": "150", "max": "210"}
-       {"letter": "e","Shift": "E","clickR": "E", "min": "210", "max": "270"}
-       {"letter": "f","Shift": "F","clickR": "F", "min": "270", "max": "330"}
+       {"letter": "a","Shift": "A","clickR": "Ａ", "Min": ["331", "0"], "Max": ["360", "30"] }
+       {"letter": "b","Shift": "B","clickR": "Ｂ", "Min": "31", "Max": "90"}
+       {"letter": "c","Shift": "C","clickR": "Ｃ", "Min": "91", "Max": "150"}
+       {"letter": "d","Shift": "D","clickR": "Ｄ", "Min": "151", "Max": "210"}
+       {"letter": "e","Shift": "E","clickR": "Ｅ", "Min": "211", "Max": "270"}
+       {"letter": "f","Shift": "F","clickR": "Ｆ", "Min": "271", "Max": "330"}
+      }
+      {"Group2": 
+       {"letter": "h","Shift": "A","clickR": "Ａ", "Min": ["331", "0"], "Max": ["360", "30"] }
+       {"letter": "i","Shift": "B","clickR": "Ｂ", "Min": "31", "Max": "90"}
+       {"letter": "j","Shift": "C","clickR": "Ｃ", "Min": "91", "Max": "150"}
+       {"letter": "k","Shift": "D","clickR": "Ｄ", "Min": "151", "Max": "210"}
+       {"letter": "l","Shift": "E","clickR": "Ｅ", "Min": "211", "Max": "270"}
+       {"letter": "m","Shift": "F","clickR": "Ｆ", "Min": "271", "Max": "330"}
+      }
+      {"Group3": 
+       {"letter": "n","Shift": "A","clickR": "Ａ", "Min": ["331", "0"], "Max": ["360", "30"] }
+       {"letter": "o","Shift": "B","clickR": "Ｂ", "Min": "31", "Max": "90"}
+       {"letter": "p","Shift": "C","clickR": "Ｃ", "Min": "91", "Max": "150"}
+       {"letter": "q","Shift": "D","clickR": "Ｄ", "Min": "151", "Max": "210"}
+       {"letter": "r","Shift": "E","clickR": "Ｅ", "Min": "211", "Max": "270"}
+       {"letter": "s","Shift": "F","clickR": "Ｆ", "Min": "271", "Max": "330"}
+      }
+      {"Group4": 
+       {"letter": "t","Shift": "A","clickR": "Ａ", "Min": ["333", "0"], "Max": ["360", "33"] }
+       {"letter": "u","Shift": "B","clickR": "Ｂ", "Min": "33", "Max": "84"}
+       {"letter": "v","Shift": "C","clickR": "Ｃ", "Min": "84", "Max": "135"}
+       {"letter": "w","Shift": "D","clickR": "Ｄ", "Min": "135", "Max": "186"}
+       {"letter": "x","Shift": "E","clickR": "Ｅ", "Min": "186", "Max": "237"}
+       {"letter": "y","Shift": "F","clickR": "Ｆ", "Min": "237", "Max": "288"}
+       {"letter": "y","Shift": "F","clickR": "Ｆ", "Min": "288", "Max": "333"}
+      }
+    }
+    {"Numbers": 
+      {"1by5": 
+        {"Group1": 
+         {"letter": "1","Shift": "１","clickR": "one", "Min": ["325", "0"], "Max": ["360", "36"] }
+         {"letter": "2","Shift": "２","clickR": "two", "Min": "37", "Max": "108"}
+         {"letter": "3","Shift": "３","clickR": "three", "Min": "109", "Max": "180"}
+         {"letter": "4","Shift": "４","clickR": "four", "Min": "181", "Max": "252"}
+         {"letter": "5","Shift": "５","clickR": "five", "Min": "253", "Max": "324"}
+        }
+        {"Group2": 
+         {"letter": "6","Shift": "６","clickR": "six", "Min": ["325", "0"], "Max": ["360", "36"] }
+         {"letter": "7","Shift": "７","clickR": "seven", "Min": "37", "Max": "108"}
+         {"letter": "8","Shift": "８","clickR": "eight", "Min": "109", "Max": "180"}
+         {"letter": "9","Shift": "９","clickR": "nine", "Min": "181", "Max": "252"}
+         {"letter": "0","Shift": "０","clickR": "zero", "Min": "253", "Max": "324"}
+        }
+      {"1byall": 
+         {"letter": "1","Shift": "１","clickR": "one", "Min": ["325", "0"], "Max": ["360", "36"] }
+         {"letter": "2","Shift": "２","clickR": "two", "Min": "37", "Max": "108"}
+         {"letter": "3","Shift": "３","clickR": "three", "Min": "109", "Max": "180"}
+         {"letter": "4","Shift": "４","clickR": "four", "Min": "181", "Max": "252"}
+         {"letter": "5","Shift": "５","clickR": "five", "Min": "253", "Max": "324"}
+         {"letter": "6","Shift": "６","clickR": "six", "Min": ["325", "0"], "Max": ["360", "36"] }
+         {"letter": "7","Shift": "７","clickR": "seven", "Min": "37", "Max": "108"}
+         {"letter": "8","Shift": "８","clickR": "eight", "Min": "109", "Max": "180"}
+         {"letter": "9","Shift": "９","clickR": "nine", "Min": "181", "Max": "252"}
+         {"letter": "0","Shift": "０","clickR": "zero", "Min": "253", "Max": "324"}
       }
