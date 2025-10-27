@@ -1,0 +1,8 @@
+{"Name": "Example", 
+ "ALetter": "E", 
+ "Script": [
+   "MainScript.json", 
+   "NumberScript.json", 
+   "SymbolScript.json"], 
+ "ConversionSystem": "Direct/Engine.js"
+}
