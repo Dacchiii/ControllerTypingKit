@@ -1,0 +1,34 @@
+[
+  {
+    "1by5": {
+     "Group1": [
+        {"letter": "1", "Shift": "１", "clickR": "${One}", "Min": ["325", "0"], "Max": ["360", "36"]},
+        {"letter": "2", "Shift": "２", "clickR": "${Two}", "Min": ["37"], "Max": ["108"]},
+        {"letter": "3", "Shift": "３", "clickR": "${Three}", "Min": ["109"], "Max": ["180"]},
+        {"letter": "4", "Shift": "４", "clickR": "${Four}", "Min": ["181"], "Max": ["252"]},
+        {"letter": "5", "Shift": "５", "clickR": "${Five}", "Min": ["253"], "Max": ["324"]}
+      ],
+      "Group2": [
+        {"letter": "6", "Shift": "６", "clickR": "${Six}", "Min": ["325", "0"], "Max": ["360", "36"]},
+        {"letter": "7", "Shift": "７", "clickR": "${Seven}", "Min": ["37"], "Max": ["108"]},
+        {"letter": "8", "Shift": "８", "clickR": "${Eight}", "Min": ["109"], "Max": ["180"]},
+        {"letter": "9", "Shift": "９", "clickR": "${Nine}", "Min": ["181"], "Max": ["252"]},
+        {"letter": "0", "Shift": "０", "clickR": "${Zero}", "Min": ["253"], "Max": ["324"]}
+      ]
+    }
+  },
+  {
+    "1byall": [
+      {"letter": "1", "Shift": "１", "clickR": "${One}", "Min": ["343", "0"], "Max": ["360", "18"]},
+      {"letter": "2", "Shift": "２", "clickR": "${Two}", "Min": ["19"], "Max": ["55"]},
+      {"letter": "3", "Shift": "３", "clickR": "${Three}", "Min": ["56"], "Max": ["92"]},
+      {"letter": "4", "Shift": "４", "clickR": "${Four}", "Min": ["93"], "Max": ["129"]},
+      {"letter": "5", "Shift": "５", "clickR": "${Five}", "Min": ["130"], "Max": ["166"]},
+      {"letter": "6", "Shift": "６", "clickR": "${Six}", "Min": ["167"], "Max": ["203"]},
+      {"letter": "7", "Shift": "７", "clickR": "${Seven}", "Min": ["204"], "Max": ["240"]},
+      {"letter": "8", "Shift": "８", "clickR": "${Eight}", "Min": ["241"], "Max": ["277"]},
+      {"letter": "9", "Shift": "９", "clickR": "${Nine}", "Min": ["278"], "Max": ["314"]},
+      {"letter": "0", "Shift": "０", "clickR": "${Zero}", "Min": ["314"], "Max": ["342"]}
+    ]
+  }
+]
