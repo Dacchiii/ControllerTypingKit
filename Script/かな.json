@@ -1,16 +1,49 @@
-[
-     {"あ行": 
-       {"letter": "あ","Shift": "ぁ","clickR": "ぁ", "min": ["324", "0"], "max": ["360", "36"]
-       {"letter": "い","Shift": "ぃ","clickR": "ぃ", "min": "36", "max": "72"
-       {"letter": "う","Shift": "ぅ","clickR": "ぅ", "min": "72", "max": ""
-       {"letter": "え","Shift": "ぇ","clickR": "ぇ", "min": "", "max": ""
-       {"letter": "お","Shift": "ぉ","clickR": "ぉ", "min": "", "max": ""
-      }
-     {"か行": 
-       {"letter": "か","Shift": "が","clickR": "が", "min": ["324", "0"], "max": ["360", "36"]}
-       {"letter": "き","Shift": "ぎ","clickR": "ぎ", "min": "", "max": ""}, 
-       {"letter": "く","Shift": "ぐ","clickR": "ぐ", "min": "", "max": ""}
-       {"letter": "け","Shift": "げ","clickR": "げ", "min": "", "max": ""}
-       {"letter": "こ","Shift": "ご","clickR": "ご", "min": "", "max": ""}
-     }
-]
+{
+  "1by5キー": [
+    {
+      "あ行": [
+        { "letter": "あ", "Shift": "ぁ", "clickR": "ぁ", "min": ["324", "0"], "max": ["360", "36"] },
+        { "letter": "い", "Shift": "ぃ", "clickR": "ぃ", "min": ["36"], "max": ["72"] },
+        { "letter": "う", "Shift": "ぅ", "clickR": "ぅ", "min": ["72"], "max": ["108"] },
+        { "letter": "え", "Shift": "ぇ", "clickR": "ぇ", "min": ["108"], "max": ["144"] },
+        { "letter": "お", "Shift": "ぉ", "clickR": "ぉ", "min": ["144"], "max": ["180"] }
+      ]
+    },
+    {
+      "か行": [
+        { "letter": "か", "Shift": "が", "clickR": "が", "min": ["324", "0"], "max": ["360", "36"] },
+        { "letter": "き", "Shift": "ぎ", "clickR": "ぎ", "min": ["36"], "max": ["72"] },
+        { "letter": "く", "Shift": "ぐ", "clickR": "ぐ", "min": ["72"], "max": ["108"] },
+        { "letter": "け", "Shift": "げ", "clickR": "げ", "min": ["108"], "max": ["144"] },
+        { "letter": "こ", "Shift": "ご", "clickR": "ご", "min": ["144"], "max": ["180"] }
+      ]
+    },
+    {
+      "さ行": [
+        { "letter": "さ", "Shift": "ざ", "clickR": "ざ", "min": ["324", "0"], "max": ["360", "36"] },
+        { "letter": "し", "Shift": "じ", "clickR": "じ", "min": ["36"], "max": ["72"] },
+        { "letter": "す", "Shift": "ず", "clickR": "ず", "min": ["72"], "max": ["108"] },
+        { "letter": "せ", "Shift": "ぜ", "clickR": "ぜ", "min": ["108"], "max": ["144"] },
+        { "letter": "そ", "Shift": "ぞ", "clickR": "ぞ", "min": ["144"], "max": ["180"] }
+      ]
+    },
+    {
+      "た行": [
+        { "letter": "た", "Shift": "だ", "clickR": "だ", "min": ["324", "0"], "max": ["360", "36"] },
+        { "letter": "ち", "Shift": "ぢ", "clickR": "ぢ", "min": ["36"], "max": ["72"] },
+        { "letter": "つ", "Shift": "づ", "clickR": "づ", "min": ["72"], "max": ["108"] },
+        { "letter": "て", "Shift": "で", "clickR": "で", "min": ["108"], "max": ["144"] },
+        { "letter": "と", "Shift": "ど", "clickR": "ど", "min": ["144"], "max": ["180"] }
+      ]
+    },
+    {
+      "な行": [
+        { "letter": "な", "Shift": "", "clickR": "", "min": ["324", "0"], "max": ["360", "36"] },
+        { "letter": "に", "Shift": "", "clickR": "", "min": ["36"], "max": ["72"] },
+        { "letter": "ぬ", "Shift": "", "clickR": "", "min": ["72"], "max": ["108"] },
+        { "letter": "ね", "Shift": "", "clickR": "", "min": ["108"], "max": ["144"] },
+        { "letter": "の", "Shift": "", "clickR": "", "min": ["144"], "max": ["180"] }
+      ]
+    }
+  ]
+}
