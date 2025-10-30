@@ -86,6 +86,70 @@
         { "letter": "ん", "Shift": "ん", "clickR": "ん", "clickLR": "ん", "min": ["144"], "max": ["180"] }
       ]
     }
+  ], "1bycolumn": [
+    {
+      "A列": [
+        { "letter": "あ", "Shift": "ぁ", "clickR": "ぁ", "clickLR": "ぁ", "min": ["0"], "max": ["40"] },
+        { "letter": "か", "Shift": "が", "clickR": "ヵ", "clickLR": "ヵ", "min": ["41"], "max": ["80"] },
+        { "letter": "さ", "Shift": "ざ", "clickR": "ざ", "clickLR": "ざ", "min": ["81"], "max": ["120"] },
+        { "letter": "た", "Shift": "だ", "clickR": "だ", "clickLR": "だ", "min": ["121"], "max": ["160"] },
+        { "letter": "な", "Shift": "な", "clickR": "な", "clickLR": "な", "min": ["161"], "max": ["200"] },
+        { "letter": "は", "Shift": "ば", "clickR": "ぱ", "clickLR": "ぱ", "min": ["201"], "max": ["240"] },
+        { "letter": "ま", "Shift": "ま", "clickR": "ま", "clickLR": "ま", "min": ["241"], "max": ["280"] },
+        { "letter": "や", "Shift": "ゃ", "clickR": "ゃ", "clickLR": "ゃ", "min": ["281"], "max": ["320"] },
+        { "letter": "ら", "Shift": "ら", "clickR": "ら", "clickLR": "ら", "min": ["321"], "max": ["359"] }
+      ]
+    },
+    {
+      "I列": [
+        { "letter": "い", "Shift": "ぃ", "clickR": "ぃ", "clickLR": "ぃ", "min": ["0"], "max": ["45"] },
+        { "letter": "き", "Shift": "ぎ", "clickR": "ぎ", "clickLR": "ぎ", "min": ["46"], "max": ["90"] },
+        { "letter": "し", "Shift": "じ", "clickR": "じ", "clickLR": "じ", "min": ["91"], "max": ["135"] },
+        { "letter": "ち", "Shift": "ぢ", "clickR": "ぢ", "clickLR": "ぢ", "min": ["136"], "max": ["180"] },
+        { "letter": "に", "Shift": "に", "clickR": "に", "clickLR": "に", "min": ["191"], "max": ["225"] },
+        { "letter": "ひ", "Shift": "び", "clickR": "ぴ", "clickLR": "ぴ", "min": ["226"], "max": ["270"] },
+        { "letter": "み", "Shift": "み", "clickR": "み", "clickLR": "み", "min": ["271"], "max": ["315"] },
+        { "letter": "り", "Shift": "り", "clickR": "り", "clickLR": "り", "min": ["316"], "max": ["359"] }
+      ]
+    },
+    {
+      "U列": [
+        { "letter": "う", "Shift": "ぅ", "clickR": "ぅ", "clickLR": "ぅ", "min": ["0"], "max": ["40"] },
+        { "letter": "く", "Shift": "ぐ", "clickR": "ぐ", "clickLR": "ぐ", "min": ["41"], "max": ["80"] },
+        { "letter": "す", "Shift": "ず", "clickR": "ず", "clickLR": "ず", "min": ["81"], "max": ["120"] },
+        { "letter": "つ", "Shift": "づ", "clickR": "づ", "clickLR": "づ", "min": ["121"], "max": ["160"] },
+        { "letter": "ぬ", "Shift": "ぬ", "clickR": "ぬ", "clickLR": "ぬ", "min": ["161"], "max": ["200"] },
+        { "letter": "ふ", "Shift": "ぶ", "clickR": "ぷ", "clickLR": "ぷ", "min": ["201"], "max": ["240"] },
+        { "letter": "む", "Shift": "む", "clickR": "む", "clickLR": "む", "min": ["241"], "max": ["280"] },
+        { "letter": "ゆ", "Shift": "ゅ", "clickR": "ゅ", "clickLR": "ゅ", "min": ["281"], "max": ["320"] },
+        { "letter": "る", "Shift": "る", "clickR": "る", "clickLR": "る", "min": ["321"], "max": ["359"] }
+      ]
+    },
+    {
+      "E列": [
+        { "letter": "え", "Shift": "ぇ", "clickR": "ぇ", "clickLR": "ぇ", "min": ["0"], "max": ["45"] },
+        { "letter": "け", "Shift": "げ", "clickR": "げ", "clickLR": "げ", "min": ["46"], "max": ["90"] },
+        { "letter": "せ", "Shift": "ぜ", "clickR": "ぜ", "clickLR": "ぜ", "min": ["91"], "max": ["135"] },
+        { "letter": "て", "Shift": "で", "clickR": "で", "clickLR": "で", "min": ["136"], "max": ["180"] },
+        { "letter": "ね", "Shift": "ね", "clickR": "ね", "clickLR": "ね", "min": ["181"], "max": ["225"] },
+        { "letter": "へ", "Shift": "べ", "clickR": "ぺ", "clickLR": "ぺ", "min": ["226"], "max": ["270"] },
+        { "letter": "め", "Shift": "め", "clickR": "め", "clickLR": "め", "min": ["271"], "max": ["315"] },
+        { "letter": "れ", "Shift": "れ", "clickR": "れ", "clickLR": "れ", "min": ["316"], "max": ["359"] }
+      ]
+    },
+    {
+      "O列": [
+        { "letter": "お", "Shift": "ぉ", "clickR": "ぉ", "clickLR": "ぉ", "min": ["0"], "max": ["40"] },
+        { "letter": "こ", "Shift": "ご", "clickR": "ご", "clickLR": "ご", "min": ["41"], "max": ["80"] },
+        { "letter": "そ", "Shift": "ぞ", "clickR": "ぞ", "clickLR": "ぞ", "min": ["81"], "max": ["120"] },
+        { "letter": "と", "Shift": "ど", "clickR": "ど", "clickLR": "ど", "min": ["121"], "max": ["160"] },
+        { "letter": "の", "Shift": "の", "clickR": "の", "clickLR": "の", "min": ["161"], "max": ["200"] },
+        { "letter": "ほ", "Shift": "ぼ", "clickR": "ぽ", "clickLR": "ぽ", "min": ["201"], "max": ["240"] },
+        { "letter": "も", "Shift": "も", "clickR": "も", "clickLR": "も", "min": ["241"], "max": ["280"] },
+        { "letter": "よ", "Shift": "ょ", "clickR": "ょ", "clickLR": "ょ", "min": ["281"], "max": ["320"] },
+        { "letter": "ろ", "Shift": "ろ", "clickR": "ろ", "clickLR": "ろ", "min": ["321"], "max": ["359"] }
+      ]
+    }
   ],"1byall": [
     { "letter": "あ", "Shift": "ぁ", "clickR": "ぁ", "clickLR": "ぁ", "min": ["0"], "max": ["7"] },
     { "letter": "い", "Shift": "ぃ", "clickR": "ぃ", "clickLR": "ぃ", "min": ["8"], "max": ["15"] },
