@@ -1,6 +1,7 @@
 let leftStickAngle = 0;
 let leftSpeed = 0;
 
+let CanUseRight = 0;
 let rightStickAngle = 0;
 let rightSpeed = 0;
 
@@ -9,7 +10,7 @@ function updateGamepad() {
     if (!gp) return;
 
     // ---------- 左スティック ----------
-    const lx = gp.axes[0] ?? 0; // undefinedなら0
+    const lx = gp.axes[0] ?? 0;
     const ly = gp.axes[1] ?? 0;
     const lMag = Math.sqrt(lx*lx + ly*ly);
 
@@ -28,8 +29,8 @@ function updateGamepad() {
     }
 
     // ---------- 右スティック ----------
-    // Joy-Con片方の時は axes[2] や axes[3] が存在しないことがある
     if(gp.axes.length >= 4){
+        CanUseRight = 1; // 右スティック使用可能
         const rx = gp.axes[2] ?? 0;
         const ry = gp.axes[3] ?? 0;
         const rMag = Math.sqrt(rx*rx + ry*ry);
@@ -48,12 +49,12 @@ function updateGamepad() {
             rightStickAngle = Math.atan2(-ry, rx);
         }
     } else {
-        rightSpeed = 0;       // 右スティックなしの場合
+        CanUseRight = 0;      // 右スティックなし
+        rightSpeed = 0;
         rightStickAngle = 0;
     }
 }
 
-// 毎フレーム更新
 function gameLoop() {
     updateGamepad();
     requestAnimationFrame(gameLoop);
@@ -63,4 +64,3 @@ window.addEventListener("gamepadconnected", () => {
     console.log("Gamepad connected!");
     gameLoop();
 });
-
