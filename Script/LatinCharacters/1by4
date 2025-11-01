@@ -1,0 +1,34 @@
+{"Group1":[
+    {"letter":"a","Shift":"A","clickR":"ａ","Min":"0","Max":"90"},
+    {"letter":"b","Shift":"B","clickR":"ｂ","Min":"91","Max":"180"},
+    {"letter":"c","Shift":"C","clickR":"ｃ","Min":"180","Max":"269"},
+    {"letter":"d","Shift":"D","clickR":"ｄ","Min":"270","Max":"359"}
+  ],"Group2":[
+    {"letter":"e","Shift":"E","clickR":"ｅ","Min":"0","Max":"90"},
+    {"letter":"f","Shift":"F","clickR":"ｆ","Min":"91","Max":"180"},
+    {"letter":"g","Shift":"G","clickR":"ｇ","Min":"180","Max":"269"},
+    {"letter":"h","Shift":"H","clickR":"ｈ","Min":"270","Max":"359"}
+  ],"Group3":[
+    {"letter":"i","Shift":"I","clickR":"ｉ","Min":"0","Max":"90"},
+    {"letter":"j","Shift":"J","clickR":"ｊ","Min":"91","Max":"180"},
+    {"letter":"k","Shift":"K","clickR":"ｋ","Min":"180","Max":"269"},
+    {"letter":"l","Shift":"L","clickR":"ｌ","Min":"270","Max":"359"}
+  ],"Group4":[
+    {"letter":"m","Shift":"M","clickR":"ｍ","Min":"0","Max":"90"},
+    {"letter":"n","Shift":"N","clickR":"ｎ","Min":"91","Max":"180"},
+    {"letter":"o","Shift":"O","clickR":"ｏ","Min":"180","Max":"269"},
+    {"letter":"p","Shift":"P","clickR":"ｐ","Min":"270","Max":"359"}
+  ],"Group5":[
+    {"letter":"q","Shift":"Q","clickR":"ｑ","Min":["325","0"],"Max":["360","36"]},
+    {"letter":"r","Shift":"R","clickR":"ｒ","Min":"72","Max":"143"},
+    {"letter":"s","Shift":"S","clickR":"ｓ","Min":"144","Max":"215"},
+    {"letter":"t","Shift":"T","clickR":"ｔ","Min":"216","Max":"287"},
+    {"letter":"y","Shift":"Y","clickR":"ｙ","Min":"288","Max":"359"}
+  ],"Group6":[
+    {"letter":"u","Shift":"U","clickR":"ｕ","Min":["325","0"],"Max":["360","36"]},
+    {"letter":"v","Shift":"V","clickR":"ｖ","Min":"72","Max":"143"},
+    {"letter":"w","Shift":"W","clickR":"ｗ","Min":"144","Max":"215"},
+    {"letter":"x","Shift":"X","clickR":"ｘ","Min":"216","Max":"287"},
+    {"letter":"z","Shift":"Z","clickR":"ｚ","Min":"288","Max":"359"}
+  ]
+}
